@@ -3,7 +3,7 @@ Faça um programa que leia 10 valores informados pelo usuário, calcule, exiba o
 
 import java.util.Scanner;
 
-public class Exercicio9 {
+public class 9Exercicio {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         
