@@ -4,7 +4,7 @@ PARABÉNS! Você foi aprovado! somente se o aluno foi aprovado (considere 6.0 a 
 
 import java.util.Scanner;
 
-public class Exercicio10 {
+public class 10Exercicio {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         
