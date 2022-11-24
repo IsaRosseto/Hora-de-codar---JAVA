@@ -4,7 +4,7 @@ Faça um programa para ler 4 valores (considere que não serão informados valor
 import java.util.Scanner;
 
 
-public class Exercicio6.1 {
+public class 6.1Exercicio {
     public static void main(String[] args)
     {   
         Scanner in = new Scanner(System.in);
