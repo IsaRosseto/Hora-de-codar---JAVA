@@ -3,7 +3,7 @@ Escreva um programa em Java em que o usuário informe o seu nome e em seguida o 
 Agora o programa deve exibir a mensagem "Olá, [NomeDoUsuario], sua idade é [idade]".*/
 
 import java.util.Scanner;
-public class Exercicio3 {
+public class 3Exercicio {
     public static void main(String[]args)
     {
         System.out.println("Qual é o seu nome ?");
