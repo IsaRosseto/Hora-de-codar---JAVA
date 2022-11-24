@@ -3,7 +3,7 @@ Faça um programa que leia 5  valores (considere que não serão informados valo
 
 import java.util.Scanner;
 
-public class Exercicio7.1 {
+public class 7.1Exercicio {
     public static void main(String[] args) {
        Scanner scanner = new Scanner(System.in);
 
