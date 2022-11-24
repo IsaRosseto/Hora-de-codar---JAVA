@@ -4,7 +4,7 @@ Considere que o primeiro sempre será menor que o segundo. */
 
 import java.util.Scanner;
 
-public class Exercicio13{
+public class 13Exercicio{
     public static void main(String[] args) {
     Scanner in = new Scanner(System.in);
 
