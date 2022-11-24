@@ -4,7 +4,7 @@ Faça um programa que leia um valor informado pelo usuário e diga se o valor in
 import java.util.Scanner;
 
 
-public class Exercicio5 {
+public class 5Exercicio {
     public static void main(String[] args)
     {   
         Scanner in = new Scanner(System.in);
