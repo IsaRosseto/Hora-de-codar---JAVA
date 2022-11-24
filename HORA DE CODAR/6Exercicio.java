@@ -3,7 +3,7 @@ Faça um programa para ler 3 valores (considere que não serão informados valor
 
 import java.util.Scanner;
 
-public class Exercicio6 {
+public class 6Exercicio {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Qual o primeiro valor?");
