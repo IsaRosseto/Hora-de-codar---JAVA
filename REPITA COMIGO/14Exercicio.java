@@ -4,7 +4,7 @@ Logo após escrever a mensagem "Calcular a média de outro aluno Sim/Não?" e so
 Se a resposta for "S", o programa deve ser executado novamente, caso contrário deve ser encerrado exibindo a quantidade de alunos aprovados. */
 import java.util.Scanner;
 
-public class Exercicio14 {
+public class 14Exercicio {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         int n1 = 0;
