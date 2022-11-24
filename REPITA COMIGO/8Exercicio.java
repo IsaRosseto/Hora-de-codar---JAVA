@@ -5,7 +5,7 @@ O programa deve imprimir o resultado da divisão do primeiro valor lido pelo seg
 
 import java.util.Scanner;
 
-public class Exercicio8 {
+public class 8Exercicio {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
